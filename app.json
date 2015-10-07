@@ -1,0 +1,7 @@
+{
+  "name": "MI9 coding challenge by christine",
+  "description": "Node js filter",
+  "repository": "https://github.com/christine56",
+  "keywords": ["node", "express", "MI9"],
+  "image": "heroku/nodejs"
+}

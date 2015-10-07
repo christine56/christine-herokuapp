@@ -1,0 +1,31 @@
+{
+  "name": "MI9 coding challenge by christine",
+  "version": "0.1.0",
+  "description": "Node js filter",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha -R list test.js",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.13.3",
+    "underscore": "~1.8.3",
+    "body-parser": "~1.14.1",
+    "should": "~7.1.0",
+    "mocha": "~2.3.3",
+    "supertest": "~1.1.0"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christine56"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
